@@ -1,2 +1,2 @@
 # angular-dynamic-table
-A customizable and dynamic Angular table module with advanced features like row highlighting, cell bookmarking, column visibility toggling, filtering, and full control over font styles, colors, and sizes.
+A fully dynamic and configurable Angular table component supporting row highlighting, cell bookmarking, custom filters, style customization (fonts, colors, sizes), and column visibility toggling — ideal for building powerful data-driven interfaces.
